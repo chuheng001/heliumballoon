@@ -1,0 +1,5 @@
+1.Text Message:
+  1).SendingShortMessage() is within the GPSPositioning() methods.Change the number!
+  2).Remember to put the square antenna on the SIM module outside!
+  3).Check: sudo raspi-config - disable UART on console and enable UART on serial port (there are two parts to this)
+2.TODO: APRS/tracksoar
